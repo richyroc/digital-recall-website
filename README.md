@@ -1,5 +1,4 @@
 # Digital Recall (Website - 2011)
-digital recall project
 
 Digital Recall is a video website which aims to explore the relationship between memory and technology. 
 
